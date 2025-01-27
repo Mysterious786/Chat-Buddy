@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-hot-toast": "^2.5.1",
+    "react-router-dom": "^7.1.3"
+  }
 }
